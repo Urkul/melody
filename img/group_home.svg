@@ -1,0 +1,39 @@
+<svg width="742" height="648" viewBox="0 0 742 648" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_d_1_86)">
+<rect x="4" width="734" height="640" fill="url(#pattern0)" shape-rendering="crispEdges"/>
+<defs>
+<filter id="filter0_d_1_86" x="0" y="0" width="742" height="648" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_86"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_86" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_86" transform="translate(-0.00408719) scale(0.0013624 0.0015625)"/>
+</pattern>
+<image id="image0_1_86" width="740" height="640" xlink:href="img/home.png"/>
+</defs>
+</g>
+<path d="M226 531L446.8 539L516 525.3V547L447.5 566.7L226 555.7V531Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M227 530V505L447.3 508.3L517 505V525L447.7 538L227 530Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M227 504V479H448H517V502L449 509L227 504Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M227 480V455L448.3 451.3L516 458V480H448" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M227 454V428L448.5 424.7L517 435.7V457L448 450.3L227 454Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 427V403.3L447 391L518 414V435.3L447 423L226 427Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 405V380L448.2 363.7L518 392.3V413L447.7 391.3L226 405Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 380V355L448.5 334.7L518 371.3V392L446 363.3L226 380Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 354V330L449 305.3L518 349.3V371L448.7 333L226 354Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 329V305L448.5 276.3L518 327.3V348L447.7 305.7L226 329Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M225 305V281L447.3 248L518 307.3V327L448 276.3L225 305Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 280V256L447.2 221L517 285V306L448.3 247.7L226 280Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 256V231L448.3 193L517 263.3V284L448 220L226 256Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 230V205L446.8 161.3L517 240.3V263L448 189.7L226 230Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M227 206V181L447 133L517 218V241L446.3 161.7L227 206Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 181V156L445.8 104L517 196.3V219L447.3 132.7L226 181Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M226 156V130L448 73.3L517 175V196L447.7 104.3L226 156Z" fill="#3595F6" fill-opacity="0.75"/>
+
+</svg>
